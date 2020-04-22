@@ -1,0 +1,4 @@
+https://github.com/akiran/react-slick
+React carousel component http://react-slick.neostack.com/
+
+https://www.react-reveal.com/examples/common/zoom/  --> animation
